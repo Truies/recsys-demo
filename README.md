@@ -12,3 +12,6 @@
 - **Week3**：FM、Wide&Deep、DeepFM
 - **Week4**：项目整合
 
+## 数据集
+本项目使用 [MovieLens Latest Small](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip) 数据集。  
+下载到 `data/` 文件夹。  
