@@ -17,3 +17,17 @@
 - [x] 浏览菜鸟教程里Numpy、Pandas与Matplotlib的教程
 - [x] Hot 100 Python 完成2道
 - [x] 用小样本数据集尝试结合pandas与matplotlib做一些数据可视化
+
+### Day 3 - 线代、概率知识回顾，线性回归与PyTorch初识
+
+- [x] 线代、概率知识回顾
+- [x] 线性回归与PyTorch初识
+- [x] Hot 100 Python 完成2道
+
+### Day 4 - 逻辑回归
+
+- [ ] 线性回归自己动手实践
+- [ ] 逻辑回归rethinkful内容看完
+- [ ] 统计学习方法绪论
+- [ ] 选一门网课看逻辑回归与线性回归内容
+- [ ] Hot 100 Python 完成2道
